@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Halo semua! 
+Perkenalkan nama saya **Ananda Satria Ariyanto**.\
+Saya seorang **Mahasiswa** di [Gunadarma](https://www.gunadarma.ac.id/).\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ananda-satria-ariyanto-788114253/)ku ya.
+
 <!--
 **anandasatriaa/anandasatriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
